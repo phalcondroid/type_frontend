@@ -2,7 +2,13 @@
 
 Este proyecto describe la arquitectura, librerias y estructura en general que se usó para desarrollar la prueba.
 
+<!--
 https://user-images.githubusercontent.com/13957703/177288906-2a8097ec-bf81-40b4-a49d-f1aba760bde1.mp4
+-->
+
+<video controls autoplay>
+  <source src="https://user-images.githubusercontent.com/13957703/177288906-2a8097ec-bf81-40b4-a49d-f1aba760bde1.mp4" type="video/mp4" autoplay>
+</video>
 
 # Secciones
 
