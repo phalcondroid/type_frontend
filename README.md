@@ -35,6 +35,8 @@ Se utilizo `clean architecture` para orginizar la estructura y arquitectura de l
 
 El `core` son componentes y archivos comunes entre dominios de la aplicación.
 
+<img width="264" alt="Screen Shot 2022-07-05 at 4 40 09 AM" src="https://user-images.githubusercontent.com/13957703/177299459-71c2ae65-a6bc-4c6a-9b11-135566729702.png">
+
 <img width="322" alt="Screen Shot 2022-07-05 at 3 51 47 AM" src="https://user-images.githubusercontent.com/13957703/177289594-1a327896-fd65-420d-9f5e-0103c927e86c.png">
 
 ### Presentación
@@ -46,6 +48,8 @@ La capa de presentación contiene:
 - bloc: Framework utilizado para el manejo de estado de las vistas y UI.
 - pages: Vistas.
 - widgets Widgets/Componentes reutilizables entre vistas utilizado en este modulo.
+- Flutter bloc
+  -  <img width="645" alt="Screen Shot 2022-07-05 at 4 41 43 AM" src="https://user-images.githubusercontent.com/13957703/177299758-c189050c-bebd-41cf-9d32-08455c9dfded.png">
 
 ### Dominio
 
