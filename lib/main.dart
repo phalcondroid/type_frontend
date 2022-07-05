@@ -1,12 +1,22 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:hive/hive.dart';
+import 'package:path_provider/path_provider.dart';
 import 'package:typa_frontend/components/users/presentation/pages/login_page.dart';
 import 'package:typa_frontend/core/common/translations/app_localizations_delegate.dart';
 import 'package:typa_frontend/core/injectable/configuration.dart';
 import 'package:typa_frontend/core/injectable/environments.dart';
+import 'package:typa_frontend/firebase_options.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  final appDocumentDirectory = await getApplicationDocumentsDirectory();
+  Hive.init(appDocumentDirectory.path);
   configureInjection(Env.dev);
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const MyApp());
 }
 

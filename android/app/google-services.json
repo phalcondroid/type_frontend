@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "952903534436",
+    "project_id": "tybatest-a87cd",
+    "storage_bucket": "tybatest-a87cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952903534436:android:970849f57c860175445c71",
+        "android_client_info": {
+          "package_name": "com.example.typa_frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952903534436-93b072p0oc3dvs4p6j1cmo3f4l2b6f4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3uuRnyB44aj0eRoErQ70q_E5f4jORCP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952903534436-93b072p0oc3dvs4p6j1cmo3f4l2b6f4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952903534436-sith20ppuvcl0gqrdm6ufm2957mkslf0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.typaFrontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

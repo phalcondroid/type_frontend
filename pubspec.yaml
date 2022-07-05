@@ -36,18 +36,23 @@ dependencies:
   intl:
   injectable:
   get_it: 
-  bloc: ^7.2.0
-  hive: ^2.0.4
+  bloc: ^8.0.3
+  hive: ^2.2.3
   formz: ^0.4.1
   dartz: ^0.10.1
+  path_provider:
   equatable: ^2.0.3
-  hive_flutter: ^1.1.0
-  flutter_bloc: ^7.3.0
-  cupertino_icons: ^1.0.2
-  device_info_plus: ^3.0.1
-  google_maps_flutter: ^2.0.9
-  cached_network_image: ^3.1.0
+  http_auth: ^1.0.1
+  flutter_bloc: ^8.0.1
+  cupertino_icons: ^1.0.5
+  device_info_plus: ^4.0.0
+  google_maps_flutter: ^2.1.8
+  cached_network_image: ^3.2.1
   flutter_google_places: ^0.3.0
+  cloud_firestore: ^3.2.1
+  firebase_core :
+  google_geocoding: ^0.2.0
+  google_place: ^0.4.7
 
 dev_dependencies:
   flutter_test:
@@ -75,14 +80,9 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/images/logo.png
-    - assets/images/box.png
-    - assets/images/delivery-boy.png
-    - assets/images/doc.png
-    - assets/images/scooter.png
-    - assets/images/document.png
-    - assets/images/banner.png
     - assets/images/map.png
+    - assets/images/tyba.png
+    - assets/images/restaurante.png
   fonts:
     - family: RedHatText
       fonts:
