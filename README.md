@@ -8,13 +8,15 @@ https://user-images.githubusercontent.com/13957703/177288906-2a8097ec-bf81-40b4-
 
 ### Login
 
-<> ![Simulator Screen Shot - iPhone 13 - 2022-07-05 at 04 11 11](https://user-images.githubusercontent.com/13957703/177293916-8d22a43e-6730-4f11-8c68-8e9b3db45691.png =250x250)
+<!-- ![Simulator Screen Shot - iPhone 13 - 2022-07-05 at 04 11 11](https://user-images.githubusercontent.com/13957703/177293916-8d22a43e-6730-4f11-8c68-8e9b3db45691.png =250x250) -->
 
-<img src="https://user-images.githubusercontent.com/13957703/177293916-8d22a43e-6730-4f11-8c68-8e9b3db45691.png" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/13957703/177293916-8d22a43e-6730-4f11-8c68-8e9b3db45691.png" width="290" height="600">
 
 ### Registro
 
-![Simulator Screen Shot - iPhone 13 - 2022-07-05 at 04 11 20](https://user-images.githubusercontent.com/13957703/177293962-070678a5-7dbe-4286-8ed0-ffba40675653.png)
+<!-- ![Simulator Screen Shot - iPhone 13 - 2022-07-05 at 04 11 20](https://user-images.githubusercontent.com/13957703/177293962-070678a5-7dbe-4286-8ed0-ffba40675653.png) -->
+
+<img src="https://user-images.githubusercontent.com/13957703/177293916-8d22a43e-6730-4f11-8c68-8e9b3db45691.png" width="290" height="600">
 
 ### Lista de restaurantes por ciudad
 
