@@ -2,13 +2,7 @@
 
 Este proyecto describe la arquitectura, librerias y estructura en general que se usó para desarrollar la prueba.
 
-<!--
 https://user-images.githubusercontent.com/13957703/177288906-2a8097ec-bf81-40b4-a49d-f1aba760bde1.mp4
--->
-
-<video autoplay>
-  <source src="https://user-images.githubusercontent.com/13957703/177288906-2a8097ec-bf81-40b4-a49d-f1aba760bde1.mp4" type="video/mp4">
-</video>
 
 # Secciones
 
@@ -26,7 +20,10 @@ https://user-images.githubusercontent.com/13957703/177288906-2a8097ec-bf81-40b4-
 
 ### Lista de restaurantes por ciudad
 
-![Simulator Screen Shot - iPhone 13 - 2022-07-05 at 04 12 00](https://user-images.githubusercontent.com/13957703/177294013-1a4f14e2-6132-41c5-a2d1-93f76ceb5082.png)
+<!--
+![Simulator Screen Shot - iPhone 13 - 2022-07-05 at 04 12 00](https://user-images.githubusercontent.com/13957703/177294013-1a4f14e2-6132-41c5-a2d1-93f76ceb5082.png)-->
+
+<img src="https://user-images.githubusercontent.com/13957703/177294013-1a4f14e2-6132-41c5-a2d1-93f76ceb5082.png" width="290" height="600">
 
 # Arquitectura
 
