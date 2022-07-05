@@ -1,16 +1,7 @@
-# typa_frontend
+# Tyba flutter test
 
-A new Flutter project.
+This proyect shows the tyba test step by step describing all components and settings used to build it.
 
-## Getting Started
+https://user-images.githubusercontent.com/13957703/177288906-2a8097ec-bf81-40b4-a49d-f1aba760bde1.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
